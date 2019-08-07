@@ -16,16 +16,20 @@
     position: absolute;
   }
   .navbar-brand {
-    font-weight: bold;
+    text-align: center;
+    font-weight: 900;
     letter-spacing: 2px;
     color: #4e4e4e;
     @media (min-width: 768px) {
       font-size: 1.8rem;
     }
     i {
-      color: #248eff;
+      color: #ffdc00;
       font-size: 0.5rem;
     }
+  }
+  .navbar-brand-lowercase {
+    font-size: 1.2rem !important;
   }
   .navbar {
     box-shadow: 0px 2px 6px rgba(43, 73, 111, 0.2);
@@ -44,10 +48,10 @@
     color: #4e4e4e !important;
     font-size: 0.85rem;
     &:hover {
-      color: darken(#248eff, 6%) !important;
+      color: darken(#ab9717d7, 6%) !important;
     }
     &.active {
-      color: lighten(#248eff, 5%) !important;
+      color: lighten(#ab9717d7, 5%) !important;
     }
     @media (min-width: 768px) {
       padding: 1rem 1rem;

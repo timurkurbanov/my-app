@@ -20,7 +20,7 @@ const footer = () => {
                   suscipit ege Aenean suscipit eget mi act fermentum phasellus.
                 </small>
               </p>
-              <button className='btn btn-sm btn-primary rounded-0'>
+              <button className='btn btn-sm btn-warning rounded-3'>
                 Learn more
               </button>
             </div>
@@ -53,38 +53,14 @@ const footer = () => {
           </div>
           <div className='col-sm-6 col-md-6 col-lg-3 mb-5'>
             <div className='footer-title'>
-              <h6>Latest News</h6>
-            </div>
-            <div className='footer-content'>
-              <p>
-                <small className='text-muted'>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                </small>
-              </p>
-              <p>
-                <small className='text-muted'>
-                  Pellentesque et pulvinar enim. Quisque at tempor ligula Natus
-                  error sit voluptatem
-                </small>
-              </p>
-              <p>
-                <small className='text-muted'>accusantium doloremque</small>
-              </p>
-            </div>
-          </div>
-          <div className='col-sm-6 col-md-6 col-lg-3 mb-5'>
-            <div className='footer-title'>
               <h6>Contact Us</h6>
             </div>
             <div className='footer-content'>
               <p className='text-muted'>
-                <small>Address : 123 main street, Algiers, Algeria</small>
+                <small>Phone : +1 647 803 6515</small>
               </p>
               <p className='text-muted'>
-                <small>Phone : +213 (0) 123 456 789</small>
-              </p>
-              <p className='text-muted'>
-                <small>E-mail : contact@email.com</small>
+                <small>E-mail : contact@passthekeys.ca</small>
               </p>
               <div className='social-media mt-4'>
                 <a href='!#' className='text-light'>
@@ -96,16 +72,13 @@ const footer = () => {
                 <a href='!#' className='text-light'>
                   <i className='fab fa-instagram mr-4' />
                 </a>
-                <a href='!#' className='text-light'>
-                  <i className='fab fa-github' />
-                </a>
               </div>
             </div>
           </div>
         </div>
       </div>
       <div className='bottom-footer pt-3 pb-3 text-center'>
-        <small>© All Right Reserved. Design By Mohamed Azouaoui</small>
+        <small>© All Right Reserved. Design By <a href="https://timkurbanov.ca">timkurbanov.ca</a></small>
       </div>
     </footer>
   );

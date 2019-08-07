@@ -44,7 +44,7 @@ const about = () => {
                   velit esse quam nihil molestiae consequatur, vel illum qui
                   dolorem eum fugiat quo voluptas nulla pariatur
                 </p>
-                <button className='btn btn-primary rounded-0'>Read More</button>
+                <button className='btn btn-warning rounded-3'>Read More</button>
               </div>
             </div>
           </div>

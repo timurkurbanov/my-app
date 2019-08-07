@@ -1,7 +1,7 @@
 import React from 'react';
 
 import Section from '../../../HOC/Section';
-import bgImage from '../../../assets/img/home_bg.jpg';
+import bgImage from '../../../assets/img/Background.adaf225c.jpg';
 import Link from '../../UI/Link/Link';
 
 const home = () => {
@@ -13,16 +13,15 @@ const home = () => {
           style={{ backgroundImage: `url(${bgImage})` }}
         >
           <div className='intro container text-center text-light'>
-            <h1 className='title'>WELCOME</h1>
+            <h1 className='title'>Short-Term Rental management</h1>
             <h2 className='sub-title mb-4'>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Maiores
-              laborum minus molestiae.
+              We manage your Airbnb so you don't have to.
             </h2>
-            <Link target='about' classes='btn btn-primary rounded-0 mr-2'>
-              Learn More
+            <Link target='about' classes='btn btn-warning rounded-3 mr-2 color'>
+              Easy start
             </Link>
-            <Link target='contact' classes='btn btn-light text-dark rounded-0'>
-              Contact Us
+            <Link target='contact' classes='btn btn-light text-dark rounded-3'>
+              Our clients
             </Link>
           </div>
         </div>

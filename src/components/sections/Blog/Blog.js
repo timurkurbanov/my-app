@@ -32,7 +32,7 @@ const Blog = () => {
                     cillum dolore eu fugiat nulla pariatur commodo
                     consequat.cillum dolore eu fugiat pariatur....
                   </p>
-                  <a href='#!' className='btn btn-sm btn-primary'>
+                  <a href='#!' className='btn btn-sm btn-warning'>
                     Read More
                   </a>
                 </div>
@@ -48,7 +48,7 @@ const Blog = () => {
                     cillum dolore eu fugiat nulla pariatur commodo
                     consequat.cillum dolore eu fugiat pariatur....
                   </p>
-                  <a href='#!' className='btn btn-sm btn-primary'>
+                  <a href='#!' className='btn btn-sm btn-warning'>
                     Read More
                   </a>
                 </div>
@@ -64,7 +64,7 @@ const Blog = () => {
                     cillum dolore eu fugiat nulla pariatur commodo
                     consequat.cillum dolore eu fugiat pariatur....
                   </p>
-                  <a href='#!' className='btn btn-sm btn-primary'>
+                  <a href='#!' className='btn btn-sm btn-warning'>
                     Read More
                   </a>
                 </div>

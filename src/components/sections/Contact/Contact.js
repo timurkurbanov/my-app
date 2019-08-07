@@ -44,7 +44,7 @@ const contact = () => {
                   />
                 </div>
                 <div className='form-group text-center'>
-                  <button className='btn btn-block btn-primary rounded-0 mr-auto ml-auto'>
+                  <button className='btn btn-block btn-warning rounded-3 mr-auto ml-auto'>
                     Send
                   </button>
                 </div>
