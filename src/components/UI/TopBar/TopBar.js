@@ -2,7 +2,7 @@ import React from 'react';
 
 const topBar = () => {
   return (
-    <div className='top-bar pt-1 pb-1 text-light'>
+    <div className='top-bar pt-1 pb-1'>
       <div className='container'>
         <div className='d-flex justify-content-between'>
           <div className='d-flex pt-2 pb-2'>

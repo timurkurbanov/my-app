@@ -18,7 +18,8 @@
   .navbar-brand {
     text-align: center;
     font-weight: 900;
-    letter-spacing: 2px;
+    letter-spacing: 1px;
+    line-height: 17px;
     color: #4e4e4e;
     @media (min-width: 768px) {
       font-size: 1.8rem;
@@ -46,9 +47,9 @@
     text-transform: uppercase;
     font-weight: 700;
     color: #4e4e4e !important;
-    font-size: 0.85rem;
+    font-size: 1.1rem;
     &:hover {
-      color: darken(#ab9717d7, 6%) !important;
+      color: darken(#ffdc00, 6%) !important;
     }
     &.active {
       color: lighten(#ab9717d7, 5%) !important;
@@ -58,7 +59,7 @@
     }
   }
   .top-bar {
-    background-color: #2f4e72;
+    background-color: #9cc2ed;
     display: none;
     @media (min-width: 768px) {
       display: block;
