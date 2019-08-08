@@ -15,7 +15,7 @@ const sections = () => {
       <About />
       <Blog />
       <Facts />
-      {/* <Contact /> */}
+      <Contact />
     </Fragment>
   );
 };

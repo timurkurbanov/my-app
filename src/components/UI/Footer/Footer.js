@@ -14,10 +14,8 @@ const footer = () => {
             <div className='footer-content'>
               <p>
                 <small className='text-muted'>
-                  Aenean suscipit eget mi act fermentum phasellus vulputate
-                  turpis tincidunt. Aenean suscipit eget. Aenean suscipit eget
-                  mi act fermentum phasellus vulputate turpis tincidunt. Aenean
-                  suscipit ege Aenean suscipit eget mi act fermentum phasellus.
+                We are a full service operation property management company.  We give homeowners the ability to increase short-term rental income without any hassle. 
+                We list and fully manage your property on short-letting sites like Airbnb, so you don't have to.
                 </small>
               </p>
             </div>
@@ -41,9 +39,6 @@ const footer = () => {
                 </li>
                 <li>
                   <Link target='blog'>Blog</Link>
-                </li>
-                <li>
-                  <Link target='contact'>Contact</Link>
                 </li>
               </ul>
             </div>

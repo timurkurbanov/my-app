@@ -14,10 +14,11 @@ const contact = () => {
         <div className='section-content'>
           <div className='row'>
             <div className='col-md-9 col-lg-7 mr-auto ml-auto'>
-              <form>
+              <form action="https://formspree.io/1tkurbanov@gmail.com" method="POST">
                 <div className='form-group'>
                   <input
                     type='text'
+                    name="name"
                     className='form-control rounded-0'
                     aria-describedby='emailHelp'
                     placeholder='Enter Name...'
@@ -26,6 +27,7 @@ const contact = () => {
                 <div className='form-group'>
                   <input
                     type='email'
+                    name="name"
                     className='form-control rounded-0'
                     aria-describedby='emailHelp'
                     placeholder='Enter email...'
@@ -33,13 +35,14 @@ const contact = () => {
                 </div>
                 <div className='form-group'>
                   <textarea
+                    name="name"
                     className='form-control rounded-0'
                     rows='5'
                     placeholder='Enter Message...'
                   />
                 </div>
                 <div className='form-group text-center'>
-                  <button className='btn btn-block btn-danger rounded-3 mr-auto ml-auto' >
+                  <button className='btn btn-block btn-danger rounded-3 mr-auto ml-auto'>
                     Send
                   </button>
                 </div>
