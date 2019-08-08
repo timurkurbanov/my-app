@@ -1,27 +1,43 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c5f4990866ce600988874c7d122426cc",
+    "revision": "db0efd92b99186c16e00ab8a27f98095",
     "url": "/index.html"
   },
   {
-    "revision": "d9268feab883e357c308",
+    "revision": "263f074e2a88532d2696",
     "url": "/static/css/2.df9ef6f4.chunk.css"
   },
   {
-    "revision": "b961b9be9e782a3104fc",
-    "url": "/static/css/main.7c797650.chunk.css"
+    "revision": "f2355451be58fd9050f5",
+    "url": "/static/css/main.1d09886a.chunk.css"
   },
   {
-    "revision": "d9268feab883e357c308",
-    "url": "/static/js/2.6a56aee3.chunk.js"
+    "revision": "263f074e2a88532d2696",
+    "url": "/static/js/2.0da76c40.chunk.js"
   },
   {
-    "revision": "b961b9be9e782a3104fc",
-    "url": "/static/js/main.00854258.chunk.js"
+    "revision": "f2355451be58fd9050f5",
+    "url": "/static/js/main.a9dba6b9.chunk.js"
   },
   {
     "revision": "42ac5946195a7306e2a5",
     "url": "/static/js/runtime~main.a8a9905a.js"
+  },
+  {
+    "revision": "79620e944254ebe9e134aa1be12e946e",
+    "url": "/static/media/Logo_Airbnb.79620e94.svg"
+  },
+  {
+    "revision": "2f66fd5e49c27c688224a5dabe223f03",
+    "url": "/static/media/Logo_Booking.2f66fd5e.svg"
+  },
+  {
+    "revision": "9525c27754bf5792b0e9616f10eaf7b5",
+    "url": "/static/media/Logo_Expedia.9525c277.svg"
+  },
+  {
+    "revision": "1a79437058e6e23ac56ac3da777b5334",
+    "url": "/static/media/Logo_Homeaway.1a794370.svg"
   },
   {
     "revision": "4dc2aecd17724952c7f05590419266dd",
