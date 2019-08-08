@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.238251e3.chunk.css",
-    "main.js": "/static/js/main.452e46cd.chunk.js",
-    "main.js.map": "/static/js/main.452e46cd.chunk.js.map",
+    "main.css": "/static/css/main.7c797650.chunk.css",
+    "main.js": "/static/js/main.00854258.chunk.js",
+    "main.js.map": "/static/js/main.00854258.chunk.js.map",
     "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
     "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
     "static/css/2.df9ef6f4.chunk.css": "/static/css/2.df9ef6f4.chunk.css",
     "static/js/2.6a56aee3.chunk.js": "/static/js/2.6a56aee3.chunk.js",
     "static/js/2.6a56aee3.chunk.js.map": "/static/js/2.6a56aee3.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.ee67bce7e3d1c96355f53675f7268608.js": "/precache-manifest.ee67bce7e3d1c96355f53675f7268608.js",
+    "precache-manifest.7776b802f5a9ccc117989bf73a45a8cb.js": "/precache-manifest.7776b802f5a9ccc117989bf73a45a8cb.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.df9ef6f4.chunk.css.map": "/static/css/2.df9ef6f4.chunk.css.map",
-    "static/css/main.238251e3.chunk.css.map": "/static/css/main.238251e3.chunk.css.map",
-    "static/media/Background.adaf225c.jpg": "/static/media/Background.adaf225c.adaf225c.jpg",
-    "static/media/about.jpg": "/static/media/about.b738fac5.jpg",
-    "static/media/blog1.jpg": "/static/media/blog1.70e60a5e.jpg",
-    "static/media/blog2.jpg": "/static/media/blog2.c7f45df6.jpg",
-    "static/media/blog3.jpg": "/static/media/blog3.c917246c.jpg",
+    "static/css/main.7c797650.chunk.css.map": "/static/css/main.7c797650.chunk.css.map",
+    "static/media/about.jpg": "/static/media/about.4dc2aecd.jpg",
+    "static/media/blog1.jpg": "/static/media/blog1.7ffa3bcd.jpg",
+    "static/media/blog2.jpg": "/static/media/blog2.be0139cb.jpg",
+    "static/media/blog3.jpg": "/static/media/blog3.6dfbe8f2.jpg",
     "static/media/main.scss": "/static/media/fa-solid-900.ef3df984.eot",
-    "static/media/facts_bg.jpg": "/static/media/facts_bg.da7ba2a0.jpg"
+    "static/media/facts_bg.jpg": "/static/media/facts_bg.da7ba2a0.jpg",
+    "static/media/front.jpg": "/static/media/front.9f8198cb.jpg"
   }
 }
