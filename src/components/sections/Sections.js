@@ -11,11 +11,11 @@ const sections = () => {
   return (
     <Fragment>
       <Home />
-      <About />
       <Service />
+      <About />
       <Blog />
       <Facts />
-      <Contact />
+      {/* <Contact /> */}
     </Fragment>
   );
 };

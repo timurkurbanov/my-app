@@ -26,6 +26,9 @@ const Nav = () => {
           <span>Pass the keys</span><i className='fas fa-circle ml-1' /><br></br>
           <span className="navbar-brand-lowercase">Property management</span>
         </a>
+        <Link target='contact' classes='btn btn-danger rounded-3 color'>
+              Easy start
+        </Link>
         <div
           className={`navbar-toggler nav-icon ${(() => {
             if (toggeledNav) return 'open';
@@ -46,23 +49,18 @@ const Nav = () => {
         >
           <ul className='navbar-nav ml-auto'>
             <li className='nav-item'>
-              <Link target='home' offset={-120} classes='nav-link'>
+              <Link target='services' offset={-120} classes='nav-link'>
                 services
               </Link>
             </li>
             <li className='nav-item'>
-              <Link target='about' classes='nav-link'>
+              <Link target='#' classes='nav-link'>
                 prices
               </Link>
             </li>
             <li className='nav-item'>
-              <Link target='services' classes='nav-link'>
+              <Link target='about' classes='nav-link'>
                 About
-              </Link>
-            </li>
-            <li className='nav-item'>
-              <Link target='blog' classes='nav-link'>
-                Blog
               </Link>
             </li>
             <li className='nav-item'>

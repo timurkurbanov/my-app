@@ -6,6 +6,13 @@
     top: 0;
   }
 }
+.color {
+  color: #FFF !important;
+}
+.space {
+  display: flex;
+  justify-content: flex-end;
+}
 .header {
   position: fixed;
   top: 0;
@@ -25,7 +32,7 @@
       font-size: 1.8rem;
     }
     i {
-      color: #ffdc00;
+      color: #ee3124;
       font-size: 0.5rem;
     }
   }
@@ -49,17 +56,17 @@
     color: #4e4e4e !important;
     font-size: 1.1rem;
     &:hover {
-      color: darken(#ffdc00, 6%) !important;
+      color: darken(#ee3124, 6%) !important;
     }
     &.active {
-      color: lighten(#ab9717d7, 5%) !important;
+      color: lighten(#ee3124, 5%) !important;
     }
     @media (min-width: 768px) {
       padding: 1rem 1rem;
     }
   }
   .top-bar {
-    background-color: #9cc2ed;
+    background-color: #d4e1f0;
     display: none;
     @media (min-width: 768px) {
       display: block;

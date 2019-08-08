@@ -12,3 +12,10 @@
   font-size: 0.9rem;
   color: #6f6f6f;
 }
+.HowWeDoIt-Hero {
+  display: flex;
+  justify-content: space-between;
+  @media (max-width: 414px) {
+    flex-direction: column;
+  }
+}

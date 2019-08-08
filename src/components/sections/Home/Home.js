@@ -13,14 +13,15 @@ const home = () => {
           style={{ backgroundImage: `url(${bgImage})` }}
         >
           <div className='intro container text-center text-light'>
-            <h1 className='title'>Short-Term Rental management</h1>
+            <h1 className='title'>Short-Term Rental Management</h1>
             <h2 className='sub-title mb-4'>
-              We manage your Airbnb so you don't have to.
+              We manage your Airbnb so you don't have to.<br></br>
+              Pass the Keys eliminate all the hassle out of Airbnb.
             </h2>
-            <Link target='about' classes='btn btn-warning rounded-3 mr-2 color'>
+            <Link target='contact' classes='btn btn-danger rounded-3 mr-2 color'>
               Easy start
             </Link>
-            <Link target='contact' classes='btn btn-light text-dark rounded-3'>
+            <Link target='about' classes='btn btn-light text-dark rounded-3'>
               Our clients
             </Link>
           </div>

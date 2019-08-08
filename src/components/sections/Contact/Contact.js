@@ -10,11 +10,6 @@ const contact = () => {
           <h3 className='section-title'>
             <span>Contact </span>Us
           </h3>
-          <h6 className='section-subtitle mr-auto ml-auto'>
-            Individualized quality care that meets the total needs of the
-            patient Individualized quality care that quality care that
-            Individualized quality care that meets the total.
-          </h6>
         </div>
         <div className='section-content'>
           <div className='row'>
@@ -44,7 +39,7 @@ const contact = () => {
                   />
                 </div>
                 <div className='form-group text-center'>
-                  <button className='btn btn-block btn-warning rounded-3 mr-auto ml-auto'>
+                  <button className='btn btn-block btn-danger rounded-3 mr-auto ml-auto' >
                     Send
                   </button>
                 </div>

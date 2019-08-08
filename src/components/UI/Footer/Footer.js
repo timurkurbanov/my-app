@@ -20,9 +20,6 @@ const footer = () => {
                   suscipit ege Aenean suscipit eget mi act fermentum phasellus.
                 </small>
               </p>
-              <button className='btn btn-sm btn-warning rounded-3'>
-                Learn more
-              </button>
             </div>
           </div>
           <div className='col-sm-6 col-md-6 col-lg-2 mb-5'>

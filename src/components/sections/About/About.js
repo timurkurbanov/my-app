@@ -1,5 +1,8 @@
 import React from 'react';
-
+import Logo_Airbnb from '../../../assets/img/Logo_Airbnb.svg';
+import Logo_Booking from '../../../assets/img/Logo_Booking.svg';
+import Logo_Expedia from '../../../assets/img/Logo_Expedia.svg';
+import Logo_Homeaway from '../../../assets/img/Logo_Homeaway.svg';
 import Section from '../../../HOC/Section';
 import aboutImage from '../../../assets/img/about.jpg';
 
@@ -9,13 +12,17 @@ const about = () => {
       <div className='container pt-2 pb-5'>
         <div className='section-header pt-5 pb-5 text-center'>
           <h3 className='section-title'>
-            <span>Our </span>Company
+          <span>Start to Finish</span> We take care of it!<br></br> Bookings, cleaning, laundry.
           </h3>
-          <h6 className='section-subtitle mr-auto ml-auto'>
-            Individualized quality care that meets the total needs of the
-            patient Individualized quality care that quality care that
-            Individualized quality care that meets the total.
-          </h6>
+          <div className="HowWeDoIt-Prop">            
+            <div className="HowWeDoIt-logo"><h4>Our properties are featured on</h4></div>
+            <div className="HowWeDoIt-Hero pt-5 pb-5">
+                <div><img className="HowWeDoIt-img" src={Logo_Airbnb}/></div>
+                <div><img className="HowWeDoIt-img" src={Logo_Booking}/></div>
+                <div><img className="HowWeDoIt-img" src={Logo_Expedia}/></div>
+                <div><img className="HowWeDoIt-img" src={Logo_Homeaway}/></div>
+            </div>
+            </div>
         </div>
         <div className='section-content'>
           <div className='row'>
@@ -28,23 +35,14 @@ const about = () => {
               <h3 className='about-title'>About us</h3>
               <div className='about-description'>
                 <p>
-                  Curabitur aliquet quam id dui posuere blandit. Donec
-                  sollicitudin molestie malesuada Pellentesque ipsum id orci
-                  porta dapibus. Vivamus suscipit tortor eget felis porttitor
-                  volutpat.
+                We are the Canada's leading short-let property management company.
                 </p>
                 <p>
-                  Neque porro quisquam est, qui dolorem ipsum quia dolor , sed
-                  quia non numquam eius modi tempora incidunt ut labore et
-                  dolore magnam aliquam quaerat voluptatem. Nisi ut aliquid ex
-                  ea commodi consequatur?
+                Toronto is one of the world’s most dynamic and fascinating cities, and therefore it should come as no surprise that it is the second most popular city in the world for Airbnb and other short-letting platforms.
                 </p>
                 <p>
-                  Quis autem vel eum iure reprehenderit qui in ea voluptate
-                  velit esse quam nihil molestiae consequatur, vel illum qui
-                  dolorem eum fugiat quo voluptas nulla pariatur
+                Every property owner is paired with a dedicated account manager who'll create your property listing, answer any questions you may have and offer proactive advice.
                 </p>
-                <button className='btn btn-warning rounded-3'>Read More</button>
               </div>
             </div>
           </div>

@@ -16,22 +16,22 @@ const Facts = () => {
               <div className='mb-2 facts-icon'>
                 <i className='fas fa-users' />
               </div>
-              <h4 className='facts-counter text-light'>780</h4>
-              <h5 className='facts-title text-light'>Active Members</h5>
+              <h4 className='facts-counter text-light'>88</h4>
+              <h5 className='facts-title text-light'>Active hosts</h5>
             </div>
             <div className='col-sm-6 col-md-3 text-center mb-4'>
               <div className='mb-2 facts-icon'>
                 <i className='fas fa-grin-beam' />
               </div>
               <h4 className='facts-counter text-light'>1004</h4>
-              <h5 className='facts-title text-light'>Happy Clients</h5>
+              <h5 className='facts-title text-light'>Happy Guests</h5>
             </div>
             <div className='col-sm-6 col-md-3 text-center mb-4'>
               <div className='mb-2 facts-icon'>
                 <i className='fas fa-project-diagram' />
               </div>
               <h4 className='facts-counter text-light'>2850</h4>
-              <h5 className='facts-title text-light'>Total Projects</h5>
+              <h5 className='facts-title text-light'>Total nights</h5>
             </div>
             <div className='col-sm-6 col-md-3 text-center mb-4'>
               <div className='mb-2 facts-icon'>
