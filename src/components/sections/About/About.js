@@ -12,7 +12,8 @@ const about = () => {
       <div className='container pt-2 pb-5'>
         <div className='section-header pt-5 pb-5 text-center'>
           <h3 className='section-title'>
-          <span>Start to Finish</span> We take care of it!<br></br> Bookings, cleaning, laundry.
+          <span>Pass the Keys</span> eliminates all the hassle out of Airbnb.<br></br>
+              Starting from 18% per booking.
           </h3>
           <div className="HowWeDoIt-Prop">            
             <div className="HowWeDoIt-logo"><h4>Our properties are featured on</h4></div>

@@ -10,6 +10,10 @@ const contact = () => {
           <h3 className='section-title'>
             <span>Contact </span>Us
           </h3>
+          <p>We always love to hear from you...</p>
+          <p>Share your ideas (the wackier the better!),<br></br>
+          pick our brain, or if you would like to become our client<br></br>
+          do get in touch.</p>
         </div>
         <div className='section-content'>
           <div className='row'>
@@ -21,7 +25,7 @@ const contact = () => {
                     name="name"
                     className='form-control rounded-0'
                     aria-describedby='emailHelp'
-                    placeholder='Enter Name...'
+                    placeholder='Name'
                   />
                 </div>
                 <div className='form-group'>
@@ -30,7 +34,16 @@ const contact = () => {
                     name="name"
                     className='form-control rounded-0'
                     aria-describedby='emailHelp'
-                    placeholder='Enter email...'
+                    placeholder='Email'
+                  />
+                </div>
+                <div className='form-group'>
+                  <input
+                    type='phone'
+                    name="name"
+                    className='form-control rounded-0'
+                    aria-describedby='emailHelp'
+                    placeholder='Phone number'
                   />
                 </div>
                 <div className='form-group'>
@@ -38,7 +51,7 @@ const contact = () => {
                     name="name"
                     className='form-control rounded-0'
                     rows='5'
-                    placeholder='Enter Message...'
+                    placeholder="What's the chat? (there's no work limit so knock yourself out - jokes and life stories welcome!)"
                   />
                 </div>
                 <div className='form-group text-center'>

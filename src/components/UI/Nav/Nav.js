@@ -54,13 +54,13 @@ const Nav = () => {
               </Link>
             </li>
             <li className='nav-item'>
-              <Link target='#' classes='nav-link'>
+              <Link target='about' classes='nav-link'>
                 prices
               </Link>
             </li>
             <li className='nav-item'>
-              <Link target='about' classes='nav-link'>
-                About
+              <Link target='blog' classes='nav-link'>
+                clients
               </Link>
             </li>
             <li className='nav-item'>
